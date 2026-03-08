@@ -1,5 +1,9 @@
 /**/*.exe
+/**/*.vscode
 /DebugConfig/
 /Listings/
 /Objects/
+*.uvguix
+*.blue seven
+*.scvd
 *.tmp
